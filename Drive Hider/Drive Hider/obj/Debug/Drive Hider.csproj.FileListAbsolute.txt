@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\bin\Debug\Drive Hider.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\bin\Debug\Drive Hider.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\bin\Debug\Drive Hider.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\obj\Debug\Drive_Hider.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\obj\Debug\Drive_Hider.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\obj\Debug\Drive Hider.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\obj\Debug\Drive Hider.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Drive Hider\Drive Hider\obj\Debug\Drive Hider.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Drive Hider\Drive Hider\obj\Debug\Drive Hider.csprojResolveAssemblyReference.cache
